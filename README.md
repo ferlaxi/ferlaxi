@@ -1,4 +1,4 @@
-![alt text](https://github.com/ferlaxi/ferlaxi/blob/main/banner-fer-laxi.png)
+![](https://github.com/ferlaxi/ferlaxi/blob/main/banner-fer.png)
 
 ### Hey there! 🖐️
 <a href="https://www.instagram.com/ferzimmerman/">
