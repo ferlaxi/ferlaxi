@@ -5,7 +5,7 @@
   <img align="left" alt="Fernando Laxi Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
 </a>
 <a href="https://www.linkedin.com/in/fer-laxi/">
-  <img align="left" alt="Fernando Laxi LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img align="left" alt="Fernando Laxi LinkedIN" width="22px" src="https://svgshare.com/i/xp2.svg" />
 </a>
 
 <br />
@@ -17,7 +17,7 @@ Hi I'm Fernando Laxi, a junior front end developer, system analyst and technolog
 I am also enthusiastic that to do a good job/project you have to give your best without exception, being committed takes you far.
 
 
-<img align="right" alt="GIF" src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966" width="500" height="320" />
+<img align="right" alt="GIF" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3FsMWZhb2RnejJoMmplajN6emtvemRva25nbjRkZDAwdzZoeHM2byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MRk8mMTnlNfMACrmNF/giphy.gif" width="500" height="320" />
   
 - 💼 any freelance work? do reach, [email](mailto:fernandopegboard@gmail.com) :)
 - 💬 ask me about anything, i am happy to help;
