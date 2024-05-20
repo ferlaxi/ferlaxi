@@ -12,7 +12,7 @@
 <br />
 
 
-Hi I'm Fernando Laxi, a junior front end developer, system analyst and technology lover. My passion for front end development leads me to create my projects in a precise and elegant way giving the best of me always in every moment I do it. 
+Hi I'm Fernando Laxi, a front-end developer, system analyst and technology lover. My passion for front end development leads me to create my projects in a precise and elegant way giving the best of me always in every moment I do it. 
 
 I am also enthusiastic that to do a good job/project you have to give your best without exception, being committed takes you far.
 
