@@ -23,7 +23,7 @@ I am also enthusiastic that to do a good job/project you have to give your best 
 
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind" /><br/>
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,nextjs,prisma,postresql" /><br/>
     <img src="https://skillicons.dev/icons?i=vite,redux,git,figma" />
   </a>
 </p>
