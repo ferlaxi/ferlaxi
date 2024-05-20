@@ -25,7 +25,7 @@ I am also enthusiastic that to do a good job/project you have to give your best 
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,nextjs," /><br/>
     <img src="https://skillicons.dev/icons?i=prisma,express,nodejs,postgres,mongodb,ts" /><br/>
-    <img src="https://skillicons.dev/icons?i=,vite,redux,git,figma" /><br/>
+    <img src="https://skillicons.dev/icons?i=,vite,redux,git,figma" />
   </a>
 </p>
 <br/>
