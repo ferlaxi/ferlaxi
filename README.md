@@ -1,9 +1,4 @@
-![](https://github.com/ferlaxi/ferlaxi/blob/main/banner-fer.png)
-
 ### Hey there! 🖐️
-<a href="https://www.instagram.com/ferzimmerman/">
-  <img align="left" alt="Fernando Laxi Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
-</a>
 <a href="https://www.linkedin.com/in/fer-laxi/">
   <img align="left" alt="Fernando Laxi LinkedIN" width="22px" src="https://svgshare.com/i/xp2.svg" />
 </a>
