@@ -11,9 +11,6 @@ Hi I'm Fernando Laxi, a Full Stack developer, system analyst and technology love
 
 I am also enthusiastic that to do a good job/project you have to give your best without exception, being committed takes you far.
 
-
-<img align="right" alt="GIF" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3FsMWZhb2RnejJoMmplajN6emtvemRva25nbjRkZDAwdzZoeHM2byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MRk8mMTnlNfMACrmNF/giphy.gif" width="500" height="320" />
-  
 - 💼 any freelance work? do reach, [email](mailto:fernandopegboard@gmail.com) :)
 - 💬 ask me about anything, i am happy to help;
 <br/>
