@@ -1,11 +1,5 @@
 ### Hey there! 🖐️
-<a href="https://www.linkedin.com/in/fer-laxi/">
-  <img align="left" alt="Fernando Laxi LinkedIN" width="22px" src="https://svgshare.com/i/xp2.svg" />
-</a>
-
 <br />
-<br />
-
 
 Hi I'm Fernando Laxi, a Front-End developer, system analyst and technology lover. My passion leads me to create my projects in a precise and elegant way giving the best of me always in every moment I do it. 
 
