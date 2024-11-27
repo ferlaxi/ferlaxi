@@ -1,30 +1,36 @@
-### Hey there! 🖐️
-<br />
+<h1 align="left">Hola 👋, Soy Fernando Laxi</h1>
 
-Hi I'm Fernando Laxi, a Front-End developer, system analyst and technology lover. My passion leads me to create my projects in a precise and elegant way giving the best of me always in every moment I do it. 
+###
 
-I am also enthusiastic that to do a good job/project you have to give your best without exception, being committed takes you far.
+¡Hola! 👋 Soy Fernando, desarrollador backend y técnico analista de sistemas especializado en Java, con amplia experiencia en frameworks como Spring, Spring Boot y Spring Cloud. Mi trabajo se centra en la arquitectura de microservicios, la implementación de seguridad con Spring Security y la aplicación de patrones de diseño. Mi objetivo es abordar proyectos técnicamente desafiantes y contribuir al desarrollo de soluciones.
 
-- 💼 any freelance work? do reach, [email](mailto:fernandopegboard@gmail.com) :)
-- 💬 ask me about anything, i am happy to help;
-<br/>
+ ## Tengo conocimiento en
 
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/25181517/117201156-9a724800-adec-11eb-9a9d-3cd0f67da4bc.png" height="55" alt="Java"/>
+  <img width="10" />
+  <img src="https://user-images.githubusercontent.com/25181517/117201470-f6d56780-adec-11eb-8f7c-e70e376cfd07.png" height="55" alt="Spring"/>
+  <img width="10" />
+  <img src="https://user-images.githubusercontent.com/25181517/183891303-41f257f8-6b3d-487c-aa56-c497b880d0fb.png" height="55" alt="Springboot"/>
+  <img width="10" />
+  <img src="https://i0.wp.com/www.e4developer.com/wp-content/uploads/2018/01/spring-cloud-logo.png?resize=768%2C723&ssl=1" height="55" alt="Springcloud"/>
+  <img width="10" />
+  <img src="https://spring.io/img/projects/spring-security.svg" height="55" alt="Springsecurity"/>
+  <img width="10" />
+  <img src="https://user-images.githubusercontent.com/25181517/117207493-49665200-adf4-11eb-808e-a9c0fcc2a0a0.png" height="55" alt="hibernate"/>
+  <img width="10" />
+  <img src="https://user-images.githubusercontent.com/25181517/183896128-ec99105a-ec1a-4d85-b08b-1aa1620b2046.png" height="55" alt="mysql"/>
+  <img width="10" />
+  <img src="https://user-images.githubusercontent.com/25181517/117208740-bfb78400-adf5-11eb-97bb-09072b6bedfc.png" height="55" alt="postgresql"/>
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="55" alt="mongodb"/>
+  <img width="10" />
+  <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" height="55" alt="git"/>
+  <img width="10" />
+  <img src="https://user-images.githubusercontent.com/25181517/117207330-263ba280-adf4-11eb-9b97-0ac5b40bc3be.png" height="55" alt="docker"/>
+</div>
 
-🛠️ **languages and tools:**  
+<br>
 
-<p>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,nextjs," /><br/>
-    <img src="https://skillicons.dev/icons?i=prisma,express,nodejs,postgres,mongodb,ts" /><br/>
-    <img src="https://skillicons.dev/icons?i=,vite,redux,git,figma" />
-  </a>
-</p>
-<br/>
-
-📊 **this week i spent my time on:**
-<!--START_SECTION:waka-->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ferlaxi&layout=donut)
-
-<!--END_SECTION:waka-->
-
-
+## GitHub Stats
+![ferlaxi github-stats](https://stats.dooboo.io/api/github-stats-advanced?login=ferlaxi)
