@@ -11,7 +11,7 @@
   <img width="10" />
   <img src="https://user-images.githubusercontent.com/25181517/117201470-f6d56780-adec-11eb-8f7c-e70e376cfd07.png" height="55" alt="Spring"/>
   <img width="10" />
-  <img src="https://user-images.githubusercontent.com/25181517/183891303-41f257f8-6b3d-487c-aa56-c497b880d0fb.png" height="55" alt="Springboot"/>
+  <img src="https://www.fontana.com.ar/wp-content/uploads/2018/10/spring-boot-logo.png" height="55" alt="Springboot"/>
   <img width="10" />
   <img src="https://i0.wp.com/www.e4developer.com/wp-content/uploads/2018/01/spring-cloud-logo.png?resize=768%2C723&ssl=1" height="55" alt="Springcloud"/>
   <img width="10" />
