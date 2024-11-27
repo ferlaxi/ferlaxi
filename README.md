@@ -33,4 +33,6 @@
 <br>
 
 ## GitHub Stats
-![ferlaxi github-stats](https://stats.dooboo.io/api/github-stats-advanced?login=ferlaxi)
+<div align="center">
+ <a href="#"><img src="https://stats.hyo.dev/api/github-stats-advanced?login=ferlaxi" width="520" /></a>
+<div/>
