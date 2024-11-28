@@ -25,8 +25,6 @@
   <img width="17" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="55" alt="mongodb"/>
   <img width="17" />
-  <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" height="55" alt="git"/>
-  <img width="17" />
   <img src="https://user-images.githubusercontent.com/25181517/117207330-263ba280-adf4-11eb-9b97-0ac5b40bc3be.png" height="55" alt="docker"/>
 </div>
 
