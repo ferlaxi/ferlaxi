@@ -30,8 +30,3 @@
 
 
 <br>
-
-## GitHub Stats
-<div align="center">
- <a href="#"><img src="https://stats.hyo.dev/api/github-stats-advanced?login=ferlaxi" width="520" /></a>
-<div/>
