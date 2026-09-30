@@ -1,32 +1,30 @@
-<h1 align="left">Hola 👋, Soy Fernando Laxi</h1>
+# Hola 👋, soy Fernando Laxi
 
-###
+### A Backend Developer by day ☼ and a Systems Analyst & Tech Explorer by night ☾
 
-¡Hola! 👋 Soy Fernando, desarrollador backend y técnico analista de sistemas especializado en Java, con amplia experiencia en frameworks como Spring, Spring Boot y Spring Cloud. Mi trabajo se centra en la arquitectura de microservicios, la implementación de seguridad con Spring Security y la aplicación de patrones de diseño. Mi objetivo es abordar proyectos técnicamente desafiantes y contribuir al desarrollo de soluciones.
+Desarrollador backend y técnico analista de sistemas especializado en el ecosistema **Java** y **Spring**. Mi enfoque diario está en la creación de arquitecturas de microservicios robustas, implementación de seguridad y aplicación de patrones de diseño limpios.
 
- ## Tengo conocimiento en
+---
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/25181517/117201156-9a724800-adec-11eb-9a9d-3cd0f67da4bc.png" height="55" alt="Java"/>
-  <img width="17" />
-  <img src="https://user-images.githubusercontent.com/25181517/117201470-f6d56780-adec-11eb-8f7c-e70e376cfd07.png" height="55" alt="Spring"/>
-  <img width="17" />
-  <img src="https://www.fontana.com.ar/wp-content/uploads/2018/10/spring-boot-logo.png" height="55" alt="Springboot"/>
-  <img width="17" />
-  <img src="https://i0.wp.com/www.e4developer.com/wp-content/uploads/2018/01/spring-cloud-logo.png?resize=768%2C723&ssl=1" height="55" alt="Springcloud"/>
-  <img width="17" />
-  <img src="https://spring.io/img/projects/spring-security.svg" height="55" alt="Springsecurity"/>
-  <img width="17" />
-  <img src="https://user-images.githubusercontent.com/25181517/117207493-49665200-adf4-11eb-808e-a9c0fcc2a0a0.png" height="55" alt="hibernate"/>
-  <img width="17" />
-  <img src="https://user-images.githubusercontent.com/25181517/183896128-ec99105a-ec1a-4d85-b08b-1aa1620b2046.png" height="55" alt="mysql"/>
-  <img width="17" />
-  <img src="https://user-images.githubusercontent.com/25181517/117208740-bfb78400-adf5-11eb-97bb-09072b6bedfc.png" height="55" alt="postgresql"/>
-  <img width="17" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="55" alt="mongodb"/>
-  <img width="17" />
-  <img src="https://user-images.githubusercontent.com/25181517/117207330-263ba280-adf4-11eb-9b97-0ac5b40bc3be.png" height="55" alt="docker"/>
-</div>
+### Sobre mí y mi stack
 
+* ⚙️ **Uso a diario:** `.java` · `Spring Boot` · `Spring Cloud` · `Spring Security` · `Hibernate` · `MySQL` · `Docker`
+* 🧪 **Testing & Calidad:** `JUnit 5` · `Mockito` · Principios SOLID & Clean Architecture
+* 🏗️ **Enfoque principal:** Arquitectura de microservicios, APIs RESTful y seguridad backend
 
+---
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/Spring-000000?style=for-the-badge&logo=spring&logoColor=white" alt="Spring" />
+  <img src="https://img.shields.io/badge/Spring_Boot-000000?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot" />
+  <img src="https://img.shields.io/badge/Spring_Cloud-000000?style=for-the-badge&logo=spring&logoColor=white" alt="Spring Cloud" />
+  <img src="https://img.shields.io/badge/Spring_Security-000000?style=for-the-badge&logo=springsecurity&logoColor=white" alt="Spring Security" />
+  <br>
+  <img src="https://img.shields.io/badge/Hibernate-000000?style=for-the-badge&logo=hibernate&logoColor=white" alt="Hibernate" />
+  <img src="https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/JUnit_5-000000?style=for-the-badge&logo=junit5&logoColor=white" alt="JUnit 5" />
+  <img src="https://img.shields.io/badge/Mockito-000000?style=for-the-badge&logo=codecov&logoColor=white" alt="Mockito" />
+</p>
 <br>
